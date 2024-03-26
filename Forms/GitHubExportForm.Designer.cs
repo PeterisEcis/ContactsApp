@@ -148,7 +148,7 @@ namespace ContactsApp
             this.Controls.Add(this.UsernameBox);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "GitHubExportForm";
-            this.Text = "GitHubExportForm";
+            this.Text = "Datu saglabāšana GitHub";
             this.ResumeLayout(false);
             this.PerformLayout();
 
